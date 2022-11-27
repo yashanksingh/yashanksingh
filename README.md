@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>Github Stats</h2>
+<h3>Github Stats</h3>
 
 <span align="center">
   

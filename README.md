@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=yashanksingh&style=for-the-badge&color=F27E2D)](https://github.com/yashanksingh)
+<!--[![Visits Badge](https://komarev.com/ghpvc/?username=yashanksingh&style=for-the-badge&color=F27E2D)](https://github.com/yashanksingh)-->
+
+[![Visits Badge](https://badges.strrl.dev/visits/yashanksingh/yashanksingh?style=for-the-badge&color=F27E2D)](https://github.com/yashanksingh)
+[![Contributions Badge](https://badges.strrl.dev/contributions/all/yashanksingh?style=for-the-badge&color=F27E2D)](https://github.com/yashanksingh)

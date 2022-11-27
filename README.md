@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 <span align="center">
   
-  [![Visits Badge](https://komarev.com/ghpvc/?username=yashanksingh&style=for-the-badge&color=FF9F00&label=VIEWS)](https://github.com/yashanksingh)
+  [![Visits Badge](https://komarev.com/ghpvc/?username=yashanksingh&style=for-the-badge&color=FE7A16&label=VIEWS)](https://github.com/yashanksingh)
   [![Repos Badge](https://badges.strrl.dev/repos/yashanksingh?style=for-the-badge&color=FF9F00&label=REPOS)](https://github.com/yashanksingh?tab=repositories)
-  [![Contributions Badge](https://badges.strrl.dev/contributions/all/yashanksingh?style=for-the-badge&color=FF9F00&label=CONTRIBUTIONS)](https://github.com/yashanksingh)
+  [![Contributions Badge](https://badges.strrl.dev/contributions/all/yashanksingh?style=for-the-badge&color=F27E2D&label=CONTRIBUTIONS)](https://github.com/yashanksingh)
 
 </span>

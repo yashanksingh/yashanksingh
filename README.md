@@ -1,4 +1,4 @@
-# Hello there 👋
+###### Hello there 👋
 
 I am a Computer Science student from India.
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3>Github Stats</h3>
+<h2>Github Stats</h2>
 
 <span align="center">
   

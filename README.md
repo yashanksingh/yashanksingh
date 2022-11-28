@@ -1,9 +1,8 @@
 [![Hi, I'm Yashank Singh](./assets/cover-5-center.png)](#)
 <!--# Hello there 👋-->
 
+I am a Computer Science student from India.
 <h4>
-  I am a Computer Science student from India.
-
   - 🌱 Always learning something new
   - ❤️ Love all things tech
   - 😄 Pronouns: He/Him

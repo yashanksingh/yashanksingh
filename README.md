@@ -1,14 +1,15 @@
 [![Hi, I'm Yashank Singh](./assets/cover-5-center.png)](#)
 <!--# Hello there 👋-->
 
-<h3>
+<h4>
   I am a Computer Science student from India.
 
   - 🌱 Always learning something new
   - ❤️ Love all things tech
   - 😄 Pronouns: He/Him
   - ⚡ I love playing and making games!
-</h3>
+</h4>
+
 <!--
 **yashanksingh/yashanksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,13 +25,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h2>Github Stats</h2>
 
 <span align="center">
-  
   [![Visits Badge](https://komarev.com/ghpvc/?username=yashanksingh&style=for-the-badge&color=FE7A16&label=VIEWS)](https://github.com/yashanksingh)
   [![Repos Badge](https://badges.strrl.dev/repos/yashanksingh?style=for-the-badge&color=FE7A16&label=REPOS)](https://github.com/yashanksingh?tab=repositories)
   [![Contributions Badge](https://badges.strrl.dev/contributions/all/yashanksingh?style=for-the-badge&color=FE7A16&label=CONTRIBUTIONS)](https://github.com/yashanksingh)
-
 </span>

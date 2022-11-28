@@ -1,12 +1,14 @@
 [![Hi, I'm Yashank Singh](./assets/cover-5-center.png)](#)
 <!--# Hello there 👋-->
 
-I am a Computer Science student from India.
+<h3>
+  I am a Computer Science student from India.
 
-- 🌱 Always learning something new
-- ❤️ Love all things tech
-- 😄 Pronouns: He/Him
-- ⚡ I love playing and making games!
+  - 🌱 Always learning something new
+  - ❤️ Love all things tech
+  - 😄 Pronouns: He/Him
+  - ⚡ I love playing and making games!
+</h3>
 <!--
 **yashanksingh/yashanksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

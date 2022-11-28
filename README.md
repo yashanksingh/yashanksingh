@@ -1,4 +1,4 @@
-[![Hi, I'm Yashank Singh](./assets/cover.png)](#)
+[![Hi, I'm Yashank Singh](./assets/cover-5-center.png)](#)
 <!--# Hello there 👋-->
 
 I am a Computer Science student from India.

@@ -32,4 +32,6 @@ Here are some ideas to get you started:
   [![Repos Badge](https://badges.strrl.dev/repos/yashanksingh?style=for-the-badge&color=FE7A16&label=REPOS)](https://github.com/yashanksingh?tab=repositories)
   [![Contributions Badge](https://badges.strrl.dev/contributions/all/yashanksingh?style=for-the-badge&color=FE7A16&label=CONTRIBUTIONS)](https://github.com/yashanksingh)
   
+  [![Github Stats](https://github-readme-stats.vercel.app/api?username=yashanksingh&count_private=true&show_icons=true&title_color=FE7A16&text_color=FFFFFF&icon_color=FE7A16&bg_color=1c1917&border_color=FE7A16&border_radius=6&hide=contribs,prs)](https://github.com/yashanksingh)
+  
 </span>

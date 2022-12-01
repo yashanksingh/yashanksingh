@@ -34,4 +34,6 @@ Here are some ideas to get you started:
   
   [![Github Stats](https://github-readme-stats.vercel.app/api?username=yashanksingh&show_icons=true&title_color=FE7A16&text_color=FFFFFF&icon_color=FE7A16&bg_color=1c1917&border_color=FE7A16&border_radius=6&count_private=true&include_all_commits=true&hide=contribs,prs)](https://github.com/yashanksingh)
   
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashanksingh&layout=compact&title_color=FE7A16&text_color=FFFFFF&icon_color=FE7A16&bg_color=1c1917&border_color=FE7A16&border_radius=6)](https://github.com/yashanksingh)
+  
 </span>

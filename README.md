@@ -1,5 +1,6 @@
 <!--# Hello there 👋-->
-[![Hi, I'm Yashank Singh](./assets/cover-5-center.png)](#)
+
+[![Hi, I'm Yashank Singh](/assets/cover-5-center.png)](#)
 
 <h3>I am a Computer Science student from India.</h3>
 

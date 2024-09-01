@@ -1,6 +1,6 @@
 <!--# Hello there 👋-->
 
-[![Hi, I'm Yashank Singh](https://cdn.discordapp.com/attachments/843077857492467742/1103681599008149514/cover-5-center.png)](#)
+[![Hi, I'm Yashank Singh](https://minio.yashanksingh.in/random/shared/yashank-cover.png)](#)
 <!--[![Hi, I'm Yashank Singh](/assets/cover-5-center.png)](#)-->
 
 <h3>I am a Computer Science student from India.</h3>

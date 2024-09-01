@@ -7,9 +7,6 @@
 
 * 🌱 Always learning something new
 * ❤️ Love all things tech
-* 😄 Pronouns: He/Him
-* ⚡ I love playing and making games!
-
 
 <h2>Github Stats</h2>
 

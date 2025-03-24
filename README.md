@@ -1,6 +1,6 @@
 <!--# Hello there 👋-->
 
-[![Hi, I'm Yashank Singh](https://minio.yashanksingh.in/random/shared/yashank-cover.png)](#)
+[![Hi, I'm Yashank Singh](https://files.yashanksingh.in/yashank-cover.png)](#)
 <!--[![Hi, I'm Yashank Singh](/assets/cover-5-center.png)](#)-->
 
 <h3>I am a Computer Science student from India.</h3>
